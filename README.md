@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @janvi213
-- 👀 I’m interested in web development and AI
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on hackethon
+- 👀 I’m interested in programming
+- 🌱 I’m currently working on simple projects on different languages
+- 💞️ I’m looking to collaborate on hackethons
 - 📫 How to reach me discord: z0D#3904
 
 <!---
